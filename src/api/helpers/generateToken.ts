@@ -8,4 +8,3 @@ function generateToken(username) {
 }
 
 export default generateToken;
-
